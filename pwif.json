@@ -1,11 +1,11 @@
 {
   "name": "PARROTwifhat",
   "symbol": "PWIF",
-  "uri": "https://link-to-your-metadata.json",
-  "sellerFeeBasisPoints": 0,
+  "uri": "https://github.com/nikay99/pwif/blob/main/pwif.json",
+  "sellerFeeBasisPoints": 100,
   "creators": [
     {
-      "address": "Ihre Wallet-Adresse",
+      "address": "D9Z9GVpWKnjUQ65HoL7evySkpTbVCqxQNU1VoZ4T48Hz",
       "share": 100
     }
   ]
