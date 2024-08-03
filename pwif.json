@@ -2,7 +2,7 @@
   "name": "PARROTwifhat",
   "symbol": "PWIF",
   "uri": "https://raw.githubusercontent.com/nikay99/pwif/main/pwif.json",
-  "image": "https://i.imgur.com/IHsAzhp.jpeg"
+  "image": "https://i.imgur.com/IHsAzhp.jpeg",
   "sellerFeeBasisPoints": 100,
   "creators": [
     {
