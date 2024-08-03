@@ -1,13 +1,6 @@
 {
   "name": "PARROTwifhat",
   "symbol": "PWIF",
-  "uri": "https://raw.githubusercontent.com/nikay99/pwif/main/pwif.json",
-  "image": "https://github.com/nikay99/pwif/blob/main/compresed.jpg?raw=true",
-  "sellerFeeBasisPoints": 100,
-  "creators": [
-    {
-      "address": "D9Z9GVpWKnjUQ65HoL7evySkpTbVCqxQNU1VoZ4T48Hz",
-      "share": 100
-    }
-  ]
+  "description": "Dean tuata eini",
+  "image": "https://github.com/nikay99/pwif/blob/main/compresed.jpg?raw=true"
 }
